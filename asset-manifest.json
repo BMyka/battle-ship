@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/battle-ship/static/js/main.692da2ea.js",
+    "static/js/787.1c43c77c.chunk.js": "/battle-ship/static/js/787.1c43c77c.chunk.js",
+    "index.html": "/battle-ship/index.html",
+    "main.692da2ea.js.map": "/battle-ship/static/js/main.692da2ea.js.map",
+    "787.1c43c77c.chunk.js.map": "/battle-ship/static/js/787.1c43c77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.692da2ea.js"
+  ]
+}
